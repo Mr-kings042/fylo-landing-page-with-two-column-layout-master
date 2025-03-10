@@ -187,7 +187,7 @@ cite{
     padding: 60px 10%;
 }
 .footer-logo img{
-  
+    filter: brightness(0) invert(1);
     margin-bottom: 20px;
 }
 .footer-links{
